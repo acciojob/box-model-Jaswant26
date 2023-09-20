@@ -1,18 +1,49 @@
 /*  your css code here. If applicable */
 .main{
 	background-color:lightgray;
-	width:400px;
-	height:150px;
+	width:350px;
+	height:120px;
 	border-radius:30px;
 	border:3px solid black
 }
 .green{
-	display:inline;
+	display:inline-block;
+	 height: 100px;
+     width: 100px;
+	border-radius:50%;
+	background-color:green;
+	text-align:center;
+	margin-top:10px;
+	margin-left:10px;
 	
+	padding:5px;
+	box-sizing:border-box;
 }
 .yellow{
 	display:inline;
+	display:inline-block;
+	 height: 100px;
+     width: 100px;
+	border-radius:50%;
+	background-color:yellow;
+	text-align:center;
+	margin-top:2px;
+	margin-left:10px;
+	
+	padding:5px;
+	box-sizing:border-box;
 }
 .red{
 	display:inline;
+	display:inline-block;
+	 height: 100px;
+     width: 100px;
+	border-radius:50%;
+	background-color:red;
+	text-align:center;
+	margin-top:2px;
+	margin-left:10px;
+	
+	padding:5px;
+	box-sizing:border-box;
 }
