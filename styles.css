@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.main{
+	background-color:lightgray;
+	width:400px;
+	height:150px;
+	border-radius:30px;
+	border:3px solid black
+}
+.green{
+	display:inline;
+	
+}
+.yellow{
+	display:inline;
+}
+.red{
+	display:inline;
+}
